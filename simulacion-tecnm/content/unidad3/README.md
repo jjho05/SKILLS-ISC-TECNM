@@ -77,6 +77,10 @@ Al completar esta unidad, serás capaz de:
 
 ---
 
-**Navegación:**
-- ⬅️ [Unidad 2: Números Pseudoaleatorios](../unidad2/README.md)
-- ➡️ [Unidad 4: Lenguajes de Simulación](../unidad4/README.md)
+---
+
+<div align="center">
+
+⬅️ [2.3.3 Solución Problemas](../unidad2/2.3.3.md) &nbsp;&nbsp;|&nbsp;&nbsp; [3.1 Conceptos VA](3.1.md) ➡️
+
+</div>

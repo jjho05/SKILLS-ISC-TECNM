@@ -63,6 +63,10 @@ Al completar esta unidad, serás capaz de:
 
 ---
 
-**Navegación:**
-- ⬅️ [Inicio del curso](../../README.md)
-- ➡️ [Unidad 2: Números Pseudoaleatorios](../unidad2/README.md)
+---
+
+<div align="center">
+
+⬅️ [Inicio del Curso](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [1.1 Conceptos Básicos](1.1.md) ➡️
+
+</div>

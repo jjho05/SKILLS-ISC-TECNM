@@ -107,22 +107,10 @@ Al completar esta unidad, serás capaz de:
 
 ---
 
-**Navegación:**
-- ⬅️ [Unidad 4: Lenguajes de Simulación](../unidad4/README.md)
-- 🏠 [Inicio del curso](../README.md)
-
 ---
 
-## 🎓 Fin del Curso
+<div align="center">
 
-¡Felicidades por completar el curso de Simulación! Ahora tienes las herramientas para:
-- Analizar sistemas complejos
-- Tomar decisiones basadas en evidencia
-- Optimizar procesos industriales
-- Proponer mejoras fundamentadas
+⬅️ [4.4.2 No Paramétricas](../unidad4/4.4.2.md) &nbsp;&nbsp;|&nbsp;&nbsp; [5.1 Proyecto Integrador](5.1.md) ➡️
 
-**Próximos pasos:**
-- Aplicar simulación en proyectos reales
-- Explorar software avanzado (AnyLogic, FlexSim)
-- Estudiar optimización vía simulación
-- Contribuir a la comunidad de simulación
+</div>

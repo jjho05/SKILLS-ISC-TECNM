@@ -69,6 +69,10 @@ Al completar esta unidad, serás capaz de:
 
 ---
 
-**Navegación:**
-- ⬅️ [Unidad 1: Introducción](../unidad1/README.md)
-- ➡️ [Unidad 3: Variables Aleatorias](../unidad3/README.md)
+---
+
+<div align="center">
+
+⬅️ [1.7 Decisión de Uso](../unidad1/1.7.md) &nbsp;&nbsp;|&nbsp;&nbsp; [2.1 Generación de Números](2.1.md) ➡️
+
+</div>

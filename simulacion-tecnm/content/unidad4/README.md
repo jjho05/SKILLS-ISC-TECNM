@@ -75,6 +75,10 @@ Al completar esta unidad, serás capaz de:
 
 ---
 
-**Navegación:**
-- ⬅️ [Unidad 3: Variables Aleatorias](../unidad3/README.md)
-- ➡️ [Unidad 5: Proyecto Integrador](../unidad5/README.md)
+---
+
+<div align="center">
+
+⬅️ [3.6 Pruebas Estadísticas](../unidad3/3.6.md) &nbsp;&nbsp;|&nbsp;&nbsp; [4.1 Lenguajes](4.1.md) ➡️
+
+</div>
