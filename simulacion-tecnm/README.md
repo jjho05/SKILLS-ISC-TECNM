@@ -57,11 +57,11 @@ Al completar este curso, serás capaz de:
 **9 archivos • 5,146 líneas • 3 ejemplos de código**
 
 - [2.1 Métodos de generación](content/unidad2/2.1.md)
-- [2.2 Pruebas de validación](content/unidad2/2.2.md) *(padre)*
+- [2.2 Pruebas de validación](content/unidad2/2.2.md)
   - [2.2.1 Pruebas de uniformidad](content/unidad2/2.2.1.md)
   - [2.2.2 Pruebas de aleatoriedad](content/unidad2/2.2.2.md)
   - [2.2.3 Pruebas de independencia](content/unidad2/2.2.3.md)
-- [2.3 Monte Carlo y generación de VA](content/unidad2/2.3.md) *(padre)*
+- [2.3 Monte Carlo y generación de VA](content/unidad2/2.3.md)
   - [2.3.1 Características del método](content/unidad2/2.3.1.md)
   - [2.3.2 Aplicaciones](content/unidad2/2.3.2.md)
   - [2.3.3 Solución de problemas](content/unidad2/2.3.3.md)
@@ -76,7 +76,7 @@ Al completar este curso, serás capaz de:
 - [3.1 Conceptos básicos](content/unidad3/3.1.md)
 - [3.2 Variables discretas](content/unidad3/3.2.md)
 - [3.3 Variables continuas](content/unidad3/3.3.md)
-- [3.4 Métodos para generar VA](content/unidad3/3.4.md) *(padre)*
+- [3.4 Métodos para generar VA](content/unidad3/3.4.md)
   - [3.4.1 Transformada inversa](content/unidad3/3.4.1.md)
   - [3.4.2 Convolución](content/unidad3/3.4.2.md)
   - [3.4.3 Composición](content/unidad3/3.4.3.md)
@@ -92,10 +92,10 @@ Al completar este curso, serás capaz de:
 
 - [4.1 Lenguajes y simuladores](content/unidad4/4.1.md)
 - [4.2 Aprendizaje y uso](content/unidad4/4.2.md)
-- [4.3 Aplicación a casos](content/unidad4/4.3.md) *(padre)*
+- [4.3 Aplicación a casos](content/unidad4/4.3.md)
   - [4.3.1 Líneas de espera](content/unidad4/4.3.1.md)
   - [4.3.2 Inventarios](content/unidad4/4.3.2.md)
-- [4.4 Análisis de resultados](content/unidad4/4.4.md) *(padre)*
+- [4.4 Análisis de resultados](content/unidad4/4.4.md)
   - [4.4.1 Pruebas paramétricas](content/unidad4/4.4.1.md)
   - [4.4.2 Pruebas no paramétricas](content/unidad4/4.4.2.md)
 

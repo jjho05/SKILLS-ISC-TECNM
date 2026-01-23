@@ -64,5 +64,5 @@ Al completar esta unidad, serás capaz de:
 ---
 
 **Navegación:**
-- ⬅️ [Inicio del curso](../README.md)
+- ⬅️ [Inicio del curso](../../README.md)
 - ➡️ [Unidad 2: Números Pseudoaleatorios](../unidad2/README.md)
