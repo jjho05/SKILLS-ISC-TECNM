@@ -443,7 +443,26 @@ Al completar esta unidad:
 - ➡️ [Unidad siguiente](../unidadY/README.md)
 ```
 
-#### 3. Archivos de Soporte
+#### 3. Navegación Secuencial (Automatizada) **[NUEVO]**
+
+Para mejorar la experiencia del estudiante, se deben agregar enlaces de navegación ("Anterior | Siguiente") al final de cada archivo de contenido.
+
+**Estándar de Footer:**
+
+```markdown
+---
+
+<div align="center">
+
+⬅️ [Tema Anterior](../unidadX/anterior.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Tema Siguiente](../unidadY/siguiente.md) ➡️
+
+</div>
+```
+
+**Automatización:**
+No hacer esto manualmente. Usar el script `tools/add_navigation.py` (ver sección Herramientas).
+
+#### 4. Archivos de Soporte
 
 **INSTALACION.md:**
 - Requisitos del sistema
@@ -872,7 +891,30 @@ Un skill de calidad debe alcanzar:
 ### Herramientas
 - [PDF Reader](../tools/pdf_reader.py)
 - [Structure Generator](../tools/create_structure.sh)
+- [Structure Generator](../tools/create_structure.sh)
 - [Link Validator](../tools/validate_links.sh)
+- [Navigation Adder](../tools/add_navigation.py)
+
+### Script de Navegación (`tools/add_navigation.py`)
+
+```python
+import os
+
+# Configuración
+BASE_PATH = "content"
+ORDER = [
+    ("unidad1", "1.1.md", "1.1 Título"),
+    ("unidad1", "1.2.md", "1.2 Título"),
+    # ... lista completa ordenada
+]
+
+def add_nav_footer():
+    for i in range(len(ORDER)):
+        # Lógica para determinar anterior/siguiente
+        # Generar footer HTML/Markdown
+        # Escribir en archivo
+        pass
+```
 
 ### Referencias
 - [Proyecto Simulación](../simulacion-tecnm/)
