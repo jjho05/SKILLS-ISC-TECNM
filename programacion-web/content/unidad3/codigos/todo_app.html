@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JS Todo App</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 500px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .input-group {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        input {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 20px;
+            cursor: pointer;
+            background: #007bff;
+            color: white;
+            border: none;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            background: #eee;
+            border-bottom: 1px solid #ddd;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        li.done span {
+            text-decoration: line-through;
+            color: #888;
+        }
+
+        .delete-btn {
+            background: #dc3545;
+            padding: 5px 10px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Mis Tareas</h1>
+    <div class="input-group">
+        <input type="text" id="taskInput" placeholder="Nueva tarea...">
+        <button id="addBtn">Agregar</button>
+    </div>
+    <ul id="taskList"></ul>
+
+    <script>
+        // DOM Elements
+        const input = document.getElementById('taskInput');
+        const btn = document.getElementById('addBtn');
+        const list = document.getElementById('taskList');
+
+        // State initialization
+        let tasks = JSON.parse(localStorage.getItem('tasks')) || [];
+
+        // Render Function
+        function render() {
+            list.innerHTML = ''; // Limpiar lista anterior
+            tasks.forEach((task, index) => {
+                const li = document.createElement('li');
+                if (task.completed) li.classList.add('done');
+
+                li.innerHTML = `
+                    <span onclick="toggle(${index})" style="cursor:pointer">${task.text}</span>
+                    <button class="delete-btn" onclick="remove(${index})">X</button>
+                `;
+                list.appendChild(li);
+            });
+            localStorage.setItem('tasks', JSON.stringify(tasks));
+        }
+
+        // Logic Functions
+        function addTask() {
+            const text = input.value.trim();
+            if (text) {
+                tasks.push({ text, completed: false });
+                input.value = '';
+                render();
+            }
+        }
+
+        function toggle(index) {
+            tasks[index].completed = !tasks[index].completed;
+            render();
+        }
+
+        window.remove = function (index) {
+            tasks.splice(index, 1);
+            render();
+        }
+
+        window.toggle = toggle; // Exponer al scope global para onclick
+
+        // Event Listeners
+        btn.addEventListener('click', addTask);
+        input.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') addTask();
+        });
+
+        // Initial Render
+        render();
+    </script>
+</body>
+
+</html>

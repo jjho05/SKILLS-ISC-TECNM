@@ -1,0 +1,360 @@
+--- PÁGINA 1 ---
+ 
+ 
+©TecNM mayo 2016  Página | 1  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+1. Datos Generales de la asignatura 
+Nombre de la asignatura: 
+ 
+Clave de la asignatura: 
+ 
+SATCA1: 
+ 
+Carrera:  Programación Web 
+ AEB-1055  1-4-5  Ingeniería en Sistemas Computacionales e Ingeniería en Tecnologías de la Información y Comunicaciones 
+ 2. Presentación 
+Caracterización de la asignatura  
+Esta asignatura aporta al perf il del egresado la capacidad para  desarrollar y administrar software que 
+apoye la productividad y competitividad de las organizaciones c umpliendo con estándares de calidad, 
+mediante el desarrollo de aplicac iones web utilizando lenguajes  de marcas, de presentación, del lado 
+del cliente, del servidor y c on la colaboración de cómputo en l a nube. 
+ Es de suma importancia porque permite al estudiante concluir en  un proyecto formal de desarrollo de 
+software aplicando varias compete ncias adquiridas durante su tr ayectoria de formación, por ello se 
+inserta en los últimos semestres.  Para adquirir la competencia plan teada en esta asignatura es ne cesario que el estudiante haya acreditado 
+la asignatura de Programación Orientada a Objetos, Taller de Ba ses de Datos y Taller de Ingeniería de 
+Software.  
+Intención didáctica 
+La asignatura está organizada en cinco temas:   El primer tema, se centra en antecedentes de las aplicaciones w eb, su arquitectura, las tecnologías 
+utilizadas y la forma en que  se deberán planificar.  
+ El segundo, aborda los lenguajes de marcado, como lo es HTML, X ML en sus versiones más 
+recientes, de la misma forma se aborda el tema de lenguaje de p resentación CSS para la creación de 
+hojas de estilo en cascada, en donde se obtenga una comprensión  de su estructura y forma de trabajar 
+con los elementos que la integran.   El tercer tema, se centra en l a creación, control y manipulació n de objetos utilizados por el cliente de 
+las aplicaciones web así como la integración de diversos Framew orks disponibles. 
+ En el cuarto tema, se aborda la programación del lado del servi dor en donde se logre la manipulación 
+de objetos y el acceso a datos para la presentación de procesos  dinámicos y sus resultados en una 
+aplicación web.  En el quinto tema, se trata lo relacionado al cómputo en la nub e, los patrones de diseño y desarrollo, 
+                                                            
+1 Sistema de Asignación y Transferencia de Créditos Académicos 
+
+--- PÁGINA 2 ---
+ 
+ 
+©TecNM mayo 2016  Página | 2  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+para su posterior integra ción con servicios web. 
+ 
+La importancia de la asignatura  se centra en conocer y desarrol lar cada una de las etapas de la 
+programación para la solución de problemas en un lenguaje de pr ogramación en ambiente web, por lo 
+que se recomienda que el estudian te desarrolle programas demost rativos en cada tema visto en clase 
+generando un proyecto integrador  y poniendo atención en los ava nces de los estudiantes.  
+ 
+3. Participantes en el diseño y seg uimiento curricular del prog rama 
+Lugar y fecha de elaboración o 
+revisión Participantes Evento 
+Instituto Tecnológico de 
+Aguascalientes del 15 al 18 de 
+junio de 2010. 
+ Representantes de los Institutos 
+Tecnológicos de: Centro Interdisciplinario de Investigación y Docencia en Educación Técnica, Acapulco, Aguascalientes, Apizaco, Boca Río, Celaya, Chetumal, Chihuahua, Chilpancingo, Chiná, Cd. Cuauhtémoc, Cd. Juárez, Cd. Madero, Cd. Victoria, Colima, Comitán, Cuautla, Durango, El Llano de Aguascalientes, Huixquilucan, Valle Bravo, Guaymas, Huatabampo, Huejutla, Iguala, La Laguna, La Paz, La Zona 
+Maya, León, Lerma, Linares, 
+Los Mochis, Matamoros, Mazatlán, Mérida, Mexicali, Minatitlán, Nuevo Laredo, Orizaba, Pachuca, Puebla, Querétaro, Reynosa, Roque, Salina Cruz, Saltillo, San Luis Potosí, Tehuacán, Tepic, Tijuana, Tlaxiaco, Toluca, Torreón, Tuxtepec, Valle de Oaxaca, Veracruz, Villahermosa, Zacatecas, Zacatepec, Altiplano de Tlaxcala, Coatzacoalcos, Cuautitlán Izcalli, Fresnillo, Irapuato, La Sierra Norte Puebla, Macuspana, Naranjos, Pátzcuaro, Poza Rica, Progreso, Puerto Vallarta, Tacámbaro, Tamazula Gordiano, Tlaxco, Elaboración del programa de 
+estudio equivalente en la 
+Reunión Nacional de 
+Implementación Curricular y Fortalecimiento Curricular de las asignaturas comunes por área de conocimiento para los planes de estudio actualizados del SNEST. 
+
+--- PÁGINA 3 ---
+ 
+ 
+©TecNM mayo 2016  Página | 3  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+Venustiano Carranza, 
+Zacapoaxtla, Zongólica y Oriente del Estado Hidalgo. 
+Instituto Tecnológico de Morelia 
+del 10 al 13 de septiembre de 
+2013. Representantes de los Institutos 
+Tecnológicos de: Aguascalientes, Apizaco, Boca del Río, Celaya, CRODE Celaya, Cerro Azul, Chihuahua, Cd. Cuauhtémoc, Cd. Hidalgo, Cd. Juárez, Cd. Madero, Cd. Valles, Coacalco, Colima, Iguala, La Laguna, Lerdo, Los Cabos, Matamoros, Mérida, Morelia, Motúl, Múzquiz, Nuevo Laredo, Nuevo León, Oriente del Estado de México, Orizaba, Pachuca, Progreso, Purhepecha, Salvatierra, San Juan del Río, Santiago Papasquiaro, Tantoyuca, Tepic, Tlatlauquitpec, Valle de Morelia, Venustiano Carranza, Veracruz, Villahermosa, Zacatecas y Zacatepec. Reunión Nacional de 
+Seguimiento Curricular de las Asignaturas Equivalentes del SNIT. 
+ 4. Competencia(s) a desarrollar  
+Competencia(s)específica(s)de la asignatura 
+Desarrolla aplicaciones web dinámicas del lado cliente y del se rvidor, considerando la conectividad a 
+orígenes de datos, la intercone ctividad entre a plicaciones y có mputo en la nube. 
+ 
+5. Competencias previas 
+ Aplica métodos y herramientas de la ingeniería del software en el desarrollo de software 
+aplicando estándares de  calidad y productividad. 
+ Aplica un lenguaje orientado a obj etos para la solución de prob lemas. 
+ Crea y aplica esquemas de bases de datos para garantizar la con fiabilidad de los datos en 
+aplicaciones para el trat amiento de información. 
+ 
+6. Temario 
+No. Temas Subtemas 
+1. Introducción a las a plicaciones web 1.1   Evolución de las ap licaciones web. 
+1.2  Arquitectura de las aplicaciones web. 
+1.3 Tecnologías para el desarrollo de 
+aplicaciones web. 1.4 Planificación de aplicaciones web. 
+2. HTML, XML y CSS 2.1  Introducción. 
+
+--- PÁGINA 4 ---
+ 
+ 
+©TecNM mayo 2016  Página | 4  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+2.2 Estructura global  de un documento Web. 
+2.3 Elementos básicos: texto, vínculos, listas, 
+tablas, objetos, imágenes y aplicaciones. 2.4  Formularios 
+2.5  Lenguajes de presentación en 
+documentos Web. 2.6  Selectores. 
+2.7  Modelo de caja. 
+3. Programación del lado del clien te 3.1 Introducción al lengua je.  
+3.2 Manejo de Frameworks  3.3 Estructuras de Control.  3.4 Manipulación de objetos.  
+4. Programación del lado del servi dor 4.1 Introducción al lengu aje. 
+4.2 Estructuras de Control.  4.3 Tratamiento de Formularios. 4.4 Manejo de objetos del servidor 4.5 Creación de clases. 4.6 Acceso a datos. 
+5. Cómputo en la nube y servicios  5.1 Conceptos generales. 
+5.2 Tipos de Servicios en la nube. 5.3 Patrones de diseño. 5.4 Estándares en servicios. 5.5 Plataformas tecnológicas 5.6 Seguridad e interoperabilidad. 
+ 
+7. Actividades de aprendizaje de los temas 
+Introducción a las aplicaciones web  
+Competencias Actividades de aprendizaje 
+Específica(s): 
+Conoce la evolución, arquitectura, tecnologías y 
+planificación de las aplicaciones Web para la preparación de un ambiente de desarrollo.  
+Genéricas: 
+ Comunicación oral y escrita. 
+ Habilidad para buscar, analizar, clasificar y 
+sintetizar información proveniente de fuentes 
+diversas. 
+ Capacidad crítica y autocrítica 
+ Capacidad de trabajar en equipo 
+ Capacidad de aplicar los conocimientos en 
+la práctica  Investigar los temas y conceptos claves sobre 
+aplicaciones web, como su evolución, 
+arquitectura y planific ación, para elaborar un 
+reporte escrito y/o multimedia. 
+ Identificar las características de los servidores 
+web, elaborar un cuadro comparativo. 
+ Enumerar las características de los intérpretes 
+y compiladores orientados a web, elaborar un cuadro comparativo, discutiendo en equipo los resultados obtenidos. 
+ Registrar las características de los 
+manejadores de bases de datos en un cuadro 
+comparativo y compartir en foro las experiencias obtenidas.     
+
+--- PÁGINA 5 ---
+ 
+ 
+©TecNM mayo 2016  Página | 5  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+HTML, XML y CSS 
+Competencias  Actividades de aprendizaje 
+Específica(s): 
+ Conoce y aplica las herramientas para construir 
+páginas web, considerando la interfaz gráfica de usuario, un lenguaje de marcado y de presentación.  
+Genéricas: 
+ Comunicación oral y escrita. 
+ Habilidad para buscar, analizar, clasificar y 
+sintetizar información proveniente de fuentes 
+diversas. 
+ Capacidad de trabajar en equipo 
+ Capacidad de aplicar los conocimientos en 
+la práctica   Investigar los temas y conceptos claves sobre 
+diferentes lenguajes de marcas, para elaborar 
+un reporte escrito y/o multimedia sobre los temas. 
+ Utilizar las etiquetas de l lenguaje de marcas 
+para realizar ejercicios sobre los elementos 
+básicos del lenguaje, tales como: texto, vínculos, listas, tablas, objetos y aplicaciones, verificando su compatibilidad con diferentes navegadores web; entregar el reporte correspondiente, discutiendo en plenaria los resultados obtenidos. 
+ Realizar ejercicios sobre el manejo de 
+formularios, verificando su compatibilidad 
+con diferentes navegadores web, entregar el reporte correspondiente y discutir en plenaria los resultados obtenidos. 
+ Investigar los temas y conceptos claves sobre 
+el lenguaje de presentación de datos, registrar los resultados en un reporte escrito y/o multimedia sobre los temas. 
+ Realizar ejercicios de implementación de 
+estilos, aplicando herencia y agrupación de 
+selectores, verificando su compatibilidad con diferentes navegadores web, entregar el reporte correspondiente y compartiendo en foro las experiencias obtenidas.  
+Programación de lado del cliente  
+Competencias  Actividades de aprendizaje 
+Específica(s): 
+Conoce y aplica un lenguaje de programación del 
+lado del cliente, para la construcción de aplicaciones web dinámicas, considerando Frameworks ya existentes.  
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Comunicación oral y escrita. 
+ Habilidad para buscar, analizar, clasificar y 
+sintetizar información proveniente de fuentes diversas. 
+ Solución de problemas. 
+ Capacidad de trabajar en equipo  Investigar los temas y conceptos claves sobre 
+el lenguaje de programación del lado del 
+cliente, para elaborar un reporte escrito y/o multimedia sobre los temas. 
+ Contrastar las características de los diferentes 
+Frameworks utilizados para programación del 
+lado del cliente, en un cuadro comparativo y seleccionar uno de ellos, realizando una exposición frente a grupo, argumentando la elección. 
+ Realizar ejercicios con elementos básicos de 
+texto, vínculos, list as, tablas, objetos, 
+imágenes, aplicaciones que reaccione a eventos y validarlos con rutinas del lado del 
+
+--- PÁGINA 6 ---
+ 
+ 
+©TecNM mayo 2016  Página | 6  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ Capacidad de aplicar los conocimientos en 
+la práctica 
+ Capacidad de aprender cliente mediante un Framework seleccionado, 
+mostrando los resultados entre pares. 
+ Realizar aplicaciones con formularios 
+dinámicos, que dispongan de elementos 
+generados y validados con lenguaje del lado del cliente mediante un Framework seleccionado, relatando en foro las experiencias obtenidas.  
+Programación del lado del servidor 
+Competencias  Actividades de aprendizaje 
+Específica(s): 
+Conoce y aplica un lenguaje de programación del 
+lado del servidor, para la construcción de aplicaciones web dinámicas, considerando su conectividad a oríg enes de datos. 
+ 
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Comunicación oral y escrita. 
+ Habilidad para buscar, analizar, clasificar y 
+sintetizar información proveniente de fuentes 
+diversas. 
+ Solución de problemas. 
+ Capacidad de trabajar en equipo 
+ Capacidad de aplicar los conocimientos en 
+la práctica 
+ Capacidad de aprender  Investigar los temas y conceptos claves sobre 
+el lenguaje de programación del lado del 
+servidor, para elaborar un reporte escrito y/o multimedia sobre los temas. 
+ Desarrollar componentes de código que 
+permitan su reutilización posterior y publicación para su discusión en grupo. 
+ Realizar aplicaciones con formularios 
+dinámicos, que dispongan de elementos 
+generados y validados con lenguaje del lado del servidor, lo cuales realicen conectividad a orígenes de datos, discutiendo en plenaria los resultados obtenidos. 
+ Realizar aplicaciones de despliegue de 
+información mediante un lenguaje del lado 
+del servidor, con base en una conectividad a orígenes de datos, compartiendo en foro las experiencias obtenidas.  
+Cómputo en la nube y servicios 
+Competencias  Actividades de aprendizaje 
+Específica(s): 
+Conoce y aplica los tipos de servicios, para lograr 
+interconectividad entre aplicaciones, considerando cómputo en la nube.  
+Genéricas: 
+ Capacidad de análisis y síntesis. 
+ Habilidad para buscar, analizar, clasificar y 
+sintetizar información proveniente de fuentes diversas. 
+ Solución de problemas. 
+ Toma de decisiones. 
+ Capacidad crítica y autocrítica 
+ Capacidad de trabajar en equipo  Investigar los temas y conceptos claves sobre 
+cómputo en la nube y sus servicios, para 
+elaborar un mapa mental. 
+ Desarrollar y publicar servicios web 
+cumpliendo estándares y documentando el proceso realizado.  
+ Realizar aplicaciones que incorporen el uso 
+de servicios web públicos, mostrando en 
+grupo los resultados obtenidos. 
+
+--- PÁGINA 7 ---
+ 
+ 
+©TecNM mayo 2016  Página | 7  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+ Capacidad de comunicar sus ideas 
+ Capacidad de aplicar los conocimientos en 
+la práctica 
+ Capacidad de aprender 
+ Búsqueda del logro  
+ 
+8. Práctica(s) 
+Es recomendable la realización de prácticas en todos los temas que consistan en el modelado y 
+resolución de problemas utili zando un lenguaje de programación orientado a  
+Objetos y orientado al desarrollo web; la entrega final de cada  tema puede ser de una aplicación que 
+refuerce los temas vistos en clase y la entrega de un proyecto integrador que contemple los 
+conocimientos, habilidades y aptitudes adquiridas en la asignat ura, este debe ser definido al final del 
+primer tema. Las prácticas suge ridas son las siguientes: 
+ Instalar y configurar: manejador de base de datos, servidor web  y lenguaje de programación del 
+lado servidor. 
+ Realizar aplicaciones donde se  haga el uso de archivos CSS (int ernos, externos y en línea). 
+ Realizar aplicaciones en donde se haga el uso de los controles y se modifiquen sus propiedades. 
+ Realizar aplicaciones en donde se haga el uso de paso de paráme tros entre páginas web. 
+ Realizar aplicaciones donde se ma nipulen los controles a través  del lenguaje de programación 
+del lado cliente. 
+ Realizar aplicaciones en donde se lleve a cabo la validación de  entrada de datos desde el lado 
+del cliente y el lado servidor. 
+ Realizar aplicaciones en donde se implementen mecanismos de seg uridad para el acceso de 
+información de algún origen de datos. 
+ Realizar aplicaciones en donde se implemente Ajax. 
+ Realizar aplicaciones en donde s e apliquen librerías como son: JQuery, Mootools y Prototype. 
+ Realizar aplicaciones en donde se apliquen los servicios web y estos puedan ser consultados de 
+manera remota. 
+ Realizar aplicaciones que incorporen servicios web para ubicaci ón satelital y cartografía. 
+ Implementar una aplicación web en una infraestructura de nube p ública. 
+ 
+9. Proyecto de asignatura  
+El objetivo del proyecto que plan teé el docente que imparta est a asignatura, es demostrar el desarrollo y 
+alcance de la(s) competencia(s) de  la asignatura, considerando las siguientes fases: 
+ Fundamentación:  marco referencial (teórico, con ceptual, contextu al, legal) en el cual se 
+fundamenta el proyecto de acuerdo con un diagnóstico realizado,  m i s m o  q u e  p e r m i t e  a  l o s  
+estudiantes lograr la comprensi ón de la realidad o situación ob jeto de estudio para definir un 
+proceso de intervención o hacer el diseño de un modelo. 
+ Planeación:  con base en el diagnóstico en esta fase se realiza el diseño d el proyecto por parte 
+de los estudiantes con asesoría del docente; implica planificar  un proceso: de intervención 
+empresarial, social o comunita rio, el diseño de un modelo, entr e otros, según el tipo de proyecto, las 
+actividades a realizar los recu rsos requeridos y el cronograma de trabajo. 
+ Ejecución:  consiste en el desarrollo de la  planeación del proyecto realiz ada por parte de los 
+estudiantes con asesoría del doc ente, es decir en la intervenci ón (social, empresarial), o 
+construcción del modelo propuest o según el tipo de proyecto, es  la fase de mayor duración que 
+
+--- PÁGINA 8 ---
+ 
+ 
+©TecNM mayo 2016  Página | 8  
+ TECNOLÓGICO NACIONAL DE MÉXICO 
+Secretaría Académica, de Investigación e Innovación 
+Dirección de Docencia e Innovación Educativa  
+implica el desempeño de las comp etencias genéricas y especifica s a desarrollar. 
+ Evaluación:  es la fase final que aplica un ju icio de valor e n el contexto laboral-profesión, social 
+e investigativo, ésta se debe r ealizar a través del reconocimie nto de logros y aspectos a mejorar se 
+estará promoviendo el concepto de “evaluación para la mejora co ntinua”, la metacognición, el 
+desarrollo del pensamiento crític o y reflexivo en los estudiant es. 
+ 
+10. Evaluación por competencias 
+Para evaluar las actividades de aprendizaje se recomienda solic itar: mapas conceptuales o mentales, 
+reporte de investigación, cuadros comparativos, reportes de prá cticas, códigos de programas, estudio de 
+casos, exposiciones en clase, porta folio de evidencias, entre o tros. 
+Para verificar el nivel del logr o de las competencias del estud iante se recomienda utilizar: listas de 
+cotejo, listas de verificaci ón, matrices de valoración, guías d e observación, rúbric as, entre otros. 
+ 
+11. Fuentes de información 
+1. Bowers, M., Synodinos, D. y Sumner, V. (2011). Pro HTML and CSS 3 design patterns. USA: 
+Apress. 
+2. Cibelli, C. (2012). PHP Programaci ón avanzada para profesionale s. España: Marcombo S.A. 
+3. Eckel, B. (2006). Thinking in J ava. USA:Prentice Hall. 
+4. Forta, B., Buraglia, A. C., Camden, R., Chalnick, L. y Safari T ech Books Online. (2005). 
+Macromedia Coldfusion MX 7 web a pplication construction kit. US A: Macromedia Press. 
+5. Joyanes, L. (2012). Computación en la nube. España:McGraw Hill.  
+6. Martin, R. (2005). UML para Program adores Java. México:Pearson Education. 
+7. Nixon, R. (2012). Learning PHP, MySQL , JavaScript, and CSS. Seb astopol, USA: O'Reilly. 
+8. Oracle. (2013). The Java Tutorials. Sep-2013, de Oracle Sitio w eb: 
+http://docs.oracle.com/javase/tutorial/  
+9. Pilone, D. y Pitman, N. (2005). UML  2.0 in a Nutshell. USA:O´Re illy. 
+10. Pollock, J. (2010). JavaScript: A beginner's guide. USA: McGraw -Hill. 
+11. Schafer, S y ebrary, I. (2010). H TML, XHTML, and CSS bible. USA : Wiley  
+12. Sierra, K. (2008). SCJP Sun Certif ied Programmer for Java 6. US A: McGraw Hill. 
+13. Snook, J., Gustafson, A., Langridge, S. y Webb, D. (2007). Acce lerated DOM scripting with Ajax, 
+APIs, and libraries. USA: Apress. 
+14. Souders, S. (2007). High performance web sites: Essential knowl edge for frontend engineers. 
+USA: O'Reilly. 
+15. • VV.AA. (2003). Programación de ap licaciones web. España: Para ninfo. 
+ 
