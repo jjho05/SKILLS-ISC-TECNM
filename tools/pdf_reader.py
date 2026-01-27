@@ -82,15 +82,22 @@ def save_to_file(content, output_path):
     print(f"✅ Contenido guardado en: {output_path}")
 
 if __name__ == "__main__":
-    # Configuración
-    PDF_PATH = "/Users/lic.ing.jesusolvera/Documents/PROYECTOS PERSONALES/SKILLS-ISC-TECNM/simulacion-tecnm/Simulacion.pdf"
-    OUTPUT_PATH = "/Users/lic.ing.jesusolvera/Documents/PROYECTOS PERSONALES/SKILLS-ISC-TECNM/simulacion-tecnm/pdf_extracted.txt"
+    # Configuración por defecto (si no hay argumentos)
+    default_pdf = "/Users/lic.ing.jesusolvera/Documents/PROYECTOS PERSONALES/SKILLS-ISC-TECNM/simulacion-tecnm/Simulacion.pdf"
+    default_output = "/Users/lic.ing.jesusolvera/Documents/PROYECTOS PERSONALES/SKILLS-ISC-TECNM/simulacion-tecnm/pdf_extracted.txt"
+    
+    # Usar argumentos si existen, sino usar defaults
+    PDF_PATH = sys.argv[1] if len(sys.argv) > 1 else default_pdf
+    OUTPUT_PATH = sys.argv[2] if len(sys.argv) > 2 else default_output
     
     # Extraer texto completo
-    print("🚀 Iniciando extracción de PDF...\n")
+    print(f"🚀 Iniciando extracción de PDF: {PDF_PATH}\n")
     full_text = extract_text_from_pdf(PDF_PATH)
     
     if not full_text.startswith("ERROR"):
+        # Asegurar que el directorio de salida exista
+        os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+        
         # Guardar texto completo
         save_to_file(full_text, OUTPUT_PATH)
         
