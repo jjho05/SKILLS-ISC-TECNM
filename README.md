@@ -52,7 +52,7 @@ Cada materia (skill) se crea siguiendo un proceso estandarizado:
 | [**Matemáticas Discretas**](matematicas-discretas/)<br>AEF1041 | [**Química**](quimica/)<br>AEC1058 | [**Investigación de Operaciones**](investigacion-operaciones/)<br>SCC1013 | [**Fundamentos de Base de Datos**](fundamentos-bd/)<br>AEF1031 | [**Taller de Base de Datos**](taller-bd/)<br>SCA1025 | [**Ingeniería de Software**](ingenieria-software/)<br>SCD1011 | | | |
 | [**Taller de Administración**](taller-administracion/)<br>SCH1024 | [**Probabilidad y Estadística**](probabilidad-estadistica/)<br>AEF1052 | [**Desarrollo Sustentable**](desarrollo-sustentable/)<br>ACD0908 | | [**Fundamentos de Ingeniería de Software**](fundamentos-ing-software/)<br>SCC1007 | [**Lenguajes de Interfaz**](lenguajes-interfaz/)<br>SCC1014 | [**Gestión de Proyectos de Software**](gestion-proyectos-software/)<br>SCC1009 | | |
 | [**Fundamentos de Investigación**](fundamentos-investigacion/)<br>ACC0906 | [**Álgebra Lineal**](algebra-lineal/)<br>ACF0903 | [**Física General**](fisica-general/)<br>SCF1006 | [**Principios Eléctricos y Aplicaciones Digitales**](principios-electricos/)<br>SCD1018 | [**Arquitectura de Computadoras**](arquitectura-computadoras/)<br>SCD1003 | [**Taller de Sistemas Operativos**](taller-so/)<br>SCA1026 | [**Sistemas Programables**](sistemas-programables/)<br>SCD1023 | | |
-| | | | [**Simulación**](https://github.com/jjho05/simulacion-tecnm)<br>SCD1022 | | | | [**Programación Web**](programacion-web/)<br>AEB1055 | |
+| | | | [**Simulación**](https://github.com/jjho05/simulacion-tecnm)<br>SCD1022 | | | | [**Programación Web**](prog-web-tecnm/)<br>AEB1055 | |
 
 ---
 
