@@ -1,0 +1,83 @@
+<!-- 
+    02_elementos_semanticos.html
+    
+    ¿Por qué no usar solo <div> para todo?
+    Porque los ciegos usan lectores de pantalla que necesitan saber qué es qué.
+-->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semántica HTML5</title>
+    <style>
+        /* Estilos visuales para que entiendas la estructura */
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        header,
+        nav,
+        main,
+        aside,
+        footer {
+            padding: 15px;
+            text-align: center;
+            border: 2px solid #333;
+        }
+
+        header {
+            background: #ffcccc;
+        }
+
+        nav {
+            background: #ccffcc;
+        }
+
+        main {
+            background: #ccccff;
+            height: 200px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- 1. HEADER: Logotipo y Título Principal -->
+    <header>
+        <h1>LOGO EMPRESA</h1>
+    </header>
+
+    <!-- 2. NAV: Menú de Navegación -->
+    <nav>
+        <a href="#">Inicio</a> | <a href="#">Servicios</a> | <a href="#">Contacto</a>
+    </nav>
+
+    <!-- 3. MAIN: El contenido único de esta página -->
+    <main>
+        <article>
+            <h2>Artículo Principal</h2>
+            <p>El contenido más importante va aquí dentro de &lt;main&gt;.</p>
+        </article>
+    </main>
+
+    <!-- 4. FOOTER: Copyright y enlaces legales -->
+    <footer>
+        <p>&copy; 2024 TecNM - Programación Web</p>
+    </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Laboratorio de Selectores CSS</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+
+        div {
+            padding: 10px;
+            margin: 5px;
+            border: 1px solid #ccc;
+        }
+
+        /* 1. Selector de ID (Específico) */
+        #unico {
+            background-color: #ffd700;
+            font-weight: bold;
+        }
+
+        /* 2. Selector de Clase (Reutilizable) */
+        .tarjeta {
+            background-color: #e0e0e0;
+            border-radius: 8px;
+        }
+
+        /* 3. Selector Descendiente (Espacio) */
+        /* Solo afecta a los <span> que estén DENTRO de .contenedor */
+        .contenedor span {
+            color: red;
+        }
+
+        /* 4. Pseudo-clase :hover */
+        button {
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        button:hover {
+            background-color: #007bff;
+            color: white;
+            transform: scale(1.1);
+        }
+
+        /* 5. Pseudo-clase :nth-child */
+        li:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        /* Pares en gris */
+    </style>
+</head>
+
+<body>
+
+    <h1>Selectores en Acción</h1>
+
+    <div id="unico">Soy único (ID)</div>
+
+    <div class="tarjeta">Soy una tarjeta (Clase)</div>
+    <div class="tarjeta">Soy otra tarjeta (Misma Clase)</div>
+
+    <div class="contenedor">
+        Este texto es normal.
+        <span>Pero este span es rojo porque es descendiente.</span>
+    </div>
+
+    <span>Este span está fuera, así que no es rojo.</span>
+
+    <h3>Lista Atigrada (:nth-child)</h3>
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2 (Gris)</li>
+        <li>Item 3</li>
+        <li>Item 4 (Gris)</li>
+    </ul>
+
+    <button>¡Pásame el mouse encima!</button>
+
+</body>
+
+</html>

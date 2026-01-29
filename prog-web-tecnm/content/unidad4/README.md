@@ -7,34 +7,34 @@ Esta unidad traslada el desarrollo al servidor. Aprenderás a construir APIs rob
 ## Contenido
 
 ### [4.1 Introducción a Node.js](4.1.md)
-- Runtime de JavaScript V8
-- Event Loop y Asincronía
-- NPM (Node Package Manager)
+- Runtime vs Lenguaje
+- Single Threaded & Event Loop
+- Sistema de Módulos (CJS vs ESM)
 
-### [4.2 Estructuras de control Backend](4.2.md)
-- Modularización (CommonJS vs ES Modules)
-- File System (`fs`)
-- Streams y Buffers
+### [4.2 Estructuras de Control (Lógica)](4.2.md)
+- Patrón Middleware
+- Control de flujo asíncrono
+- Manejo de Errores centralizado
 
-### [4.3 Protocolo HTTP y Express](4.3.md)
-- Verbos HTTP (GET, POST, PUT, DELETE)
-- Códigos de Estado
-- Routing y Middlewares en Express
+### [4.3 Tratamiento de Formularios](4.3.md)
+- Body Parsing (JSON vs URL)
+- Validación con Zod
+- Seguridad (CSRF)
 
-### [4.4 Manejo de objetos del servidor (Request/Response)](4.4.md)
-- `req.body`, `req.params`, `req.query`
+### [4.4 Objetos del Servidor](4.4.md)
+- `req` y `res` a fondo
 - Headers y Cookies
-- Validación de datos (Joi/Zod)
+- JWT y Autenticación Stateless
 
-### [4.5 Creación de Clases y Arquitectura](4.5.md)
-- Patrón MVC en Backend
-- Servicios y Controladores
+### [4.5 Arquitectura (Clases)](4.5.md)
+- Capas: Controller, Service, Repository
 - Inyección de Dependencias
+- Principios SOLID en Backend
 
-### [4.6 Acceso a Datos (Bases de Datos)](4.6.md)
-- Conexión a Bases de Datos (SQL vs NoSQL)
-- ORMs (Sequelize / Prisma / Mongoose)
-- CRUD completo y Transacciones
+### [4.6 Acceso a Datos (DB)](4.6.md)
+- SQL vs NoSQL
+- ORMs (Prisma) y Migraciones
+- Optimización (Pools, N+1)
 
 ## Objetivos de Aprendizaje
 

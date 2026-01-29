@@ -71,7 +71,7 @@ Al completar este curso, serás capaz de:
 - [3.1 Introducción al lenguaje](content/unidad3/3.1.md)
 - [3.2 Manejo de Frameworks](content/unidad3/3.2.md)
 - [3.3 Estructuras de control](content/unidad3/3.3.md)
-- [3.4 Manipulación de objetos](content/unidad3/3.4.md)
+- [3.4 Manipulación de Objetos y DOM](content/unidad3/3.4.md)
 
 **Ejemplos de código:** [Ver carpeta](content/unidad3/codigos/)
 
@@ -81,11 +81,11 @@ Al completar este curso, serás capaz de:
 **6 archivos • Node.js y Backend • 1 API REST**
 
 - [4.1 Introducción a Node.js](content/unidad4/4.1.md)
-- [4.2 Estructuras de control Backend](content/unidad4/4.2.md)
-- [4.3 Protocolo HTTP y Express](content/unidad4/4.3.md)
-- [4.4 Manejo de objetos del servidor](content/unidad4/4.4.md)
-- [4.5 Creación de Clases y Arquitectura](content/unidad4/4.5.md)
-- [4.6 Acceso a Datos](content/unidad4/4.6.md)
+- [4.2 Estructuras de Control (Lógica)](content/unidad4/4.2.md)
+- [4.3 Tratamiento de Formularios](content/unidad4/4.3.md)
+- [4.4 Objetos del Servidor](content/unidad4/4.4.md)
+- [4.5 Arquitectura (Clases)](content/unidad4/4.5.md)
+- [4.6 Acceso a Datos (DB)](content/unidad4/4.6.md)
 
 **Ejemplos de código:** [Ver carpeta](content/unidad4/codigos/)
 
@@ -94,12 +94,12 @@ Al completar este curso, serás capaz de:
 ### [Unidad 5: Cómputo en la Nube y Servicios](content/unidad5/README.md)
 **6 archivos • Cloud y DevOps • 1 Dockerfile/IaC**
 
-- [5.1 Conceptos generales](content/unidad5/5.1.md)
-- [5.2 Tipos de servicios en la nube](content/unidad5/5.2.md)
-- [5.3 Patrones de diseño](content/unidad5/5.3.md)
-- [5.4 Estándares en servicios](content/unidad5/5.4.md)
-- [5.5 Plataformas tecnológicas](content/unidad5/5.5.md)
-- [5.6 Seguridad e interoperabilidad](content/unidad5/5.6.md)
+- [5.1 Conceptos Generales](content/unidad5/5.1.md)
+- [5.2 Tipos de Servicios](content/unidad5/5.2.md)
+- [5.3 Patrones de Diseño](content/unidad5/5.3.md)
+- [5.4 Estándares](content/unidad5/5.4.md)
+- [5.5 Plataformas](content/unidad5/5.5.md)
+- [5.6 Seguridad](content/unidad5/5.6.md)
 
 **Ejemplos de código:** [Ver carpeta](content/unidad5/codigos/)
 

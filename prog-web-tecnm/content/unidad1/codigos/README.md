@@ -1,15 +1,29 @@
-# Ejemplos Unidad 1
+# 💻 Ejemplos de Código - Unidad 1: Fundamentos
 
-Esta unidad es teórica, pero los conceptos de **Cliente-Servidor** se pueden ilustrar con código.
+## Descripción
+Scripts introductorios para entender la arquitectura Cliente-Servidor y la evolución de JavaScript.
 
-## Contenido
+## Archivos Incluidos
 
-### 01_servidor_simple.py
-Un servidor web minimalista escrito en Python puro. Muestra cómo un servidor "escucha" peticiones y "responde" con texto.
-- **Ejecutar:** `python 01_servidor_simple.py`
-- **Probar:** Abrir navegador en `http://localhost:8000`
+### 1. `03_arquitectura_cliente_servidor.js`
+*   **Qué hace:** Simula un servidor HTTP básico que responde a diferentes rutas (`/`, `/api`, `/error`).
+*   **Concepto clave:** Entender cómo "escucha" un servidor y cómo "responde" al cliente.
 
-### 02_cliente_simple.py
-Un script que actúa como navegador (Cliente). Envía una petición HTTP a Google y muestra la respuesta.
-- **Requisitos:** `pip install requests`
-- **Ejecutar:** `python 02_cliente_simple.py`
+### 2. `04_comparativa_lenguajes.js`
+*   **Qué hace:** Compara código "Viejo" (ES5 - `var`, `function`) contra código "Moderno" (ES6 - `const`, Arrow Functions).
+*   **Concepto clave:** Apreciar la limpieza y seguridad de las nuevas versiones de JS.
+
+## 🚀 Tutorial de Ejecución
+
+Estas pruebas corren sobre **Node.js**.
+
+1. Abre tu terminal.
+2. Navega a esta carpeta:
+   ```bash
+   cd "proyectos personales/skills-isc-tecnm/prog-web-tecnm/content/unidad1/codigos"
+   ```
+3. Ejecuta los archivos:
+   ```bash
+   node 03_arquitectura_cliente_servidor.js
+   node 04_comparativa_lenguajes.js
+   ```

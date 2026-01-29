@@ -17,19 +17,15 @@ Esta unidad introduce la lógica de programación en el navegador. Aprenderás J
 - Virtual DOM
 
 ### [3.3 Estructuras de control](3.3.md)
-- Condicionales (`if`, `switch`, Ternario)
-- Ciclos (`for`, `while`, `map`, `filter`, `reduce`)
-- Manejo de Errores (`try-catch`)
+- Condicionales Modernos (`??`, `?.`)
+- Iteración Funcional (`map`, `filter`)
+- **Async/Await** y Promesas
 
-### [3.4 Manipulación de objetos](3.4.md)
-- Objetos Literales y Destructuring
-- JSON (JavaScript Object Notation)
-- `this` y Clases en JS
-
-### [3.5 Eventos y DOM](3.5.md) (Extra)
-- `addEventListener`
-- Manipulación del DOM en tiempo real
-- Promesas y Async/Await (`fetch`)
+### [3.4 Manipulación de Objetos y DOM](3.4.md)
+- DOM API moderna (`querySelector`)
+- Eventos y Delegación
+- Fetch API (Consumo de datos)
+- `localStorage` y JSON
 
 ## Objetivos de Aprendizaje
 

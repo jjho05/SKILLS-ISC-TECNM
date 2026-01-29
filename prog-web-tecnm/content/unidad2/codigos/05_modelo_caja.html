@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>El Modelo de Caja (The Box Model)</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+        }
+
+        .caja-comun {
+            background-color: lightblue;
+            width: 200px;
+            /* Ancho deseado */
+            padding: 20px;
+            border: 10px solid blue;
+            margin: 20px auto;
+        }
+
+        /* El problema clásico: Se hace más grande de lo que pediste */
+        .content-box {
+            box-sizing: content-box;
+            /* Valor por defecto */
+            /* 
+               Ancho REAL = 200 (width) + 40 (padding) + 20 (border) = 260px 
+               ¡Rompe el diseño!
+            */
+        }
+
+        /* La solución moderna */
+        .border-box {
+            box-sizing: border-box;
+            /* La magia */
+            /* 
+               Ancho REAL = 200px (fijo). 
+               El padding y border se "comen" el espacio de adentro, no suman afuera.
+            */
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Box Model: El Error #1 de CSS</h1>
+
+    <h3>1. <code>box-sizing: content-box</code> (Malo)</h3>
+    <p>Pedí width: 200px, pero mide 260px reales.</p>
+    <div class="caja-comun content-box">Soy Gordo</div>
+
+    <h3>2. <code>box-sizing: border-box</code> (Bueno)</h3>
+    <p>Pedí width: 200px, y mide 200px exactos.</p>
+    <div class="caja-comun border-box">Soy Fit</div>
+
+</body>
+
+</html>
