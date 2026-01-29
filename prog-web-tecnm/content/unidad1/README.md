@@ -44,6 +44,6 @@ Al completar esta unidad, serás capaz de:
 
 <div align="center">
 
-⬅️ [Inicio del Curso](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [1.1 Evolución](1.1.md) ➡️
+⬅️ [Unidad 0: Onboarding](../unidad0/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [1.1 Evolución](1.1.md) ➡️
 
 </div>

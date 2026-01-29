@@ -93,6 +93,6 @@ Dentro de la carpeta `codigos/` encontrarás **39 archivos** listos para ejecuta
 
 <div align="center">
 
-⬅️ [Menú Principal](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 0.1 Editors](0.1_html_editors.md) ➡️
+⬅️ [Inicio del Curso](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 0.1 Editors](0.1_html_editors.md) ➡️
 
 </div>
