@@ -41,6 +41,10 @@ Al completar este curso, serás capaz de:
 ### [Unidad 0: Taller Inicial (Onboarding)](content/unidad0/README.md)
 **7 archivos • Mini-Curso Completo • 39 Ejemplos**
 
+**Ejemplos de código:** [Ver carpeta](content/unidad0/codigos/)
+
+---
+
 ### [Unidad 1: Antecedentes](content/unidad1/README.md)
 **4 archivos • Historia y Arquitectura • 1 ejemplo**
 
