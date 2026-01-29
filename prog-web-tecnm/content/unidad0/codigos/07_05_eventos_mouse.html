@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Eventos de Mouse</title>
+</head>
+
+<body>
+
+    <h1>Eventos de Mouse</h1>
+
+    <h3>1. OnClick (El Clásico)</h3>
+    <button onclick="alert('Click detectado')">Dame Click</button>
+
+    <h3>2. OnMouseOver (Pasar por encima)</h3>
+    <img src="https://via.placeholder.com/150/0000FF/808080?Text=TOCAME"
+        onmouseover="this.src='https://via.placeholder.com/150/FF0000/FFFFFF?Text=QUEMA'"
+        onmouseout="this.src='https://via.placeholder.com/150/0000FF/808080?Text=TOCAME'" alt="Cubo">
+    <p>Pasa el mouse sobre el cubo azul.</p>
+
+    <h3>3. OnDoubleClicks (Doble Click)</h3>
+    <button ondblclick="alert('¡Doble click!')">Dale doble click rápido</button>
+
+</body>
+
+</html>

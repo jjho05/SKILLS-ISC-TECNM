@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Eventos de Teclado</title>
+</head>
+
+<body>
+
+    <h1>Espía de Teclado</h1>
+    <p>Escribe algo en la caja. Te diré qué tecla presionaste.</p>
+
+    <input type="text" onkeydown="detectarTecla(event)" placeholder="Escribe aquí...">
+
+    <h2 id="tecla">...</h2>
+
+    <script>
+        function detectarTecla(evento) {
+            // El objeto 'evento' tiene info sobre qué pasó
+            var tecla = evento.key;
+
+            document.getElementById("tecla").innerHTML = "Presionaste: " + tecla;
+
+            if (tecla == "Enter") {
+                alert("¡Diste ENTER! Enviando formulario imaginario...");
+            }
+        }
+    </script>
+
+</body>
+
+</html>

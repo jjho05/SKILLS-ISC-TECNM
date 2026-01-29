@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DIV vs SPAN</title>
+    <style>
+        .caja {
+            background-color: orange;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        .resaltado {
+            background-color: yellow;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>La diferencia visual real</h1>
+
+    <h2>DIV (División de Bloque)</h2>
+    <div class="caja">Soy el Div 1</div>
+    <div class="caja">Soy el Div 2</div>
+    <p>Nota como cada uno ocupa su propia línea.</p>
+
+    <hr>
+
+    <h2>SPAN (Contenedor de Línea)</h2>
+    <p>
+        Este es un texto donde quiero resaltar
+        <span class="resaltado">esta palabra</span>
+        y también
+        <span class="resaltado">esta otra</span>
+        sin romper el flujo del párrafo.
+    </p>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JS 02: Manipular el DOM</title>
+</head>
+
+<body>
+
+    <h1>Cambiando cosas en vivo</h1>
+
+    <p id="mi-parrafo">Este texto es aburrido.</p>
+
+    <button onclick="document.getElementById('mi-parrafo').innerHTML = '🔥 ¡Ahora es divertido! 🔥'">
+        Cambiar Texto
+    </button>
+
+    <button onclick="document.getElementById('mi-parrafo').innerHTML = 'Este texto es aburrido.'">
+        Resetear
+    </button>
+
+</body>
+
+</html>

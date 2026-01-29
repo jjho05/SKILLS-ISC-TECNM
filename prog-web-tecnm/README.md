@@ -38,6 +38,9 @@ Al completar este curso, serás capaz de:
 
 ## 📚 Contenido
 
+### [Unidad 0: Taller Inicial (Onboarding)](content/unidad0/README.md)
+**7 archivos • Mini-Curso Completo • 39 Ejemplos**
+
 ### [Unidad 1: Antecedentes](content/unidad1/README.md)
 **4 archivos • Historia y Arquitectura • 1 ejemplo**
 
@@ -184,7 +187,7 @@ Cada unidad incluye:
 
 - **Archivos Markdown**: 31
 - **Líneas de teoría**: ~20,000+
-- **Ejemplos de código**: 5 Proyectos Completos
+- **Ejemplos de código**: +40 Ejemplos y 5 Proyectos Completos
 - **Unidades completas**: 5/5
 - **Cobertura del temario**: 100%
 

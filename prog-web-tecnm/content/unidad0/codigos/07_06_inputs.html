@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Leer Inputs JS</title>
+</head>
+
+<body>
+
+    <h1>Interacción Real</h1>
+
+    <p>Escribe tu nombre:</p>
+    <input type="text" id="nombreUsuario" placeholder="Ej. Juan Pérez">
+
+    <button onclick="saludar()">Saludarme</button>
+
+    <h2 id="resultado">...</h2>
+
+    <script>
+        function saludar() {
+            // 1. Obtener el VALOR (value) de la caja de texto
+            var nombre = document.getElementById("nombreUsuario").value;
+
+            // 2. Verificar si está vacío
+            if (nombre == "") {
+                alert("¡Escribe algo por favor!");
+            } else {
+                // 3. Mostrar el resultado
+                document.getElementById("resultado").innerHTML = "¡Hola " + nombre + "!";
+            }
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>JS 03: Estilos Dinámicos</title>
+    <style>
+        #caja {
+            width: 200px;
+            height: 200px;
+            background-color: gray;
+            margin: 20px;
+            transition: all 0.5s;
+            /* Animación suave */
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Controlando CSS con JS</h1>
+
+    <div id="caja"></div>
+
+    <button onclick="document.getElementById('caja').style.backgroundColor = 'red'">
+        🔴 Rojo
+    </button>
+
+    <button onclick="document.getElementById('caja').style.borderRadius = '50%'">
+        ⚪ Círculo
+    </button>
+
+    <button onclick="document.getElementById('caja').style.transform = 'rotate(45deg)'">
+        🔄 Rotar
+    </button>
+
+    <button onclick="document.getElementById('caja').style.display = 'none'">
+        👻 Desaparecer
+    </button>
+
+</body>
+
+</html>

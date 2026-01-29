@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Padding vs Margin</title>
+    <style>
+        .caja {
+            border: 5px solid black;
+            background-color: yellow;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>El Modelo de Caja (Box Model)</h1>
+
+    <h2>1. Normal (Sin nada)</h2>
+    <div class="caja">Hola Soy Caja</div>
+    <div class="caja">Hola Soy Caja</div>
+
+    <h2>2. Con Padding (Relleno)</h2>
+    <p>El espacio está ADENTRO del borde.</p>
+    <div class="caja" style="padding: 30px;">
+        Tengo 30px de aire interno.
+    </div>
+
+    <h2>3. Con Margin (Margen)</h2>
+    <p>El espacio está AFUERA del borde (empuja a los vecinos).</p>
+    <div class="caja" style="margin: 50px;">
+        Aléjate de mí (50px).
+    </div>
+
+</body>
+
+</html>
