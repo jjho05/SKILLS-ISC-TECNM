@@ -41,6 +41,14 @@ Al completar este curso, serás capaz de:
 ### [Unidad 0: Taller Inicial (Onboarding)](content/unidad0/README.md)
 **7 archivos • Mini-Curso Completo • 39 Ejemplos**
 
+- [0.1 HTML Editors](content/unidad0/0.1_html_editors.md)
+- [0.2 HTML Basic](content/unidad0/0.2_html_basic.md)
+- [0.3 Elements & Attributes](content/unidad0/0.3_html_elements_attributes.md)
+- [0.4 Headings & Paragraphs](content/unidad0/0.4_html_headings_paragraphs.md)
+- [0.5 Styles & Colors](content/unidad0/0.5_html_styles_colors.md)
+- [0.6 Images & Links](content/unidad0/0.6_html_images_links.md)
+- [0.7 JavaScript](content/unidad0/0.7_html_javascript.md)
+
 **Ejemplos de código:** [Ver carpeta](content/unidad0/codigos/)
 
 ---
