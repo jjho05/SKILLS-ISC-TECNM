@@ -190,6 +190,8 @@ Carpeta con scripts de automatización:
 Estudiante de Ingeniería en Sistemas Computacionales  
 Instituto Tecnológico de Ciudad Madero
 
+- **Portal de la Carrera (ISC-ITCM):** [jjho05.github.io/ISC-ITCM/](https://jjho05.github.io/ISC-ITCM/)  
+  *(Proyecto oficial-style para la comunidad del ITCM)*
 - **GitHub:** [@jjho05](https://github.com/jjho05)
 - **Email:** [jjho.reivaj05@gmail.com](mailto:jjho.reivaj05@gmail.com)
 
