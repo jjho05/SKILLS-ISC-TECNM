@@ -228,6 +228,10 @@ Este proyecto contiene material educativo basado en los programas oficiales del 
 
 <br>
 
+**[⬅️ Volver al Menú de Materias (Skills ISC)](../README.md)**
+
+<br>
+
 **Por mi Patria y por mi Bien**  
 **Orgullo Tec Madero** 🦅
 
