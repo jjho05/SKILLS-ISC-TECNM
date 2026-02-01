@@ -23,6 +23,6 @@ Diseñar y desplegar aplicaciones funcionales para dispositivos móviles, compre
 
 <div align="center">
 
-[⬅️ Unidad 4](../unidad4/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Menú Principal](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 5.1 Introducción](5.1.md) ➡️
+[⬅️ Anterior: 4.4 Visualización](../unidad4/4.4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 5.1 Introducción](5.1.md) ➡️
 
 </div>

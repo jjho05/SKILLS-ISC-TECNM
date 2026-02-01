@@ -21,6 +21,6 @@ Programar aplicaciones capaces de ejecutar múltiples tareas de forma eficiente,
 
 <div align="center">
 
-[⬅️ Unidad 2](../unidad2/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Menú Principal](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 3.1 Hilos vs Procesos](3.1.md) ➡️
+[⬅️ Anterior: 2.4 Empaquetado](../unidad2/2.4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 3.1 Hilos vs Procesos](3.1.md) ➡️
 
 </div>

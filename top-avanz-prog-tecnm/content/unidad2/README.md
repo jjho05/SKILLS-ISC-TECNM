@@ -21,6 +21,6 @@ Comprender y aplicar los principios de modularidad y reutilización para constru
 
 <div align="center">
 
-[⬅️ Unidad 1](../unidad1/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Menú Principal](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 2.1 Conceptos](2.1.md) ➡️
+[⬅️ Anterior: 1.4 Componentes](../unidad1/1.4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 2.1 Conceptos](2.1.md) ➡️
 
 </div>

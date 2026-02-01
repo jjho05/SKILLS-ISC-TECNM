@@ -22,6 +22,6 @@ Ser capaz de diseñar, implementar y depurar aplicaciones de escritorio con una 
 
 <div align="center">
 
-[⬅️ Unidad 0](../unidad0/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Menú Principal](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 1.1 Arquitectura](1.1.md) ➡️
+[⬅️ Anterior: 0.5 Estructura de Proyecto](../unidad0/0.5_project_structure.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 1.1 Arquitectura](1.1.md) ➡️
 
 </div>

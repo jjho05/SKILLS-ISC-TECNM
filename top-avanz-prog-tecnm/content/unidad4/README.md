@@ -21,6 +21,6 @@ Integrar sistemas de bases de datos persistentes y seguros en aplicaciones de es
 
 <div align="center">
 
-[⬅️ Unidad 3](../unidad3/README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Menú Principal](../../README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 4.1 Persistencia](4.1.md) ➡️
+[⬅️ Anterior: 3.4 Sincronización](../unidad3/3.4.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Siguiente: 4.1 Persistencia](4.1.md) ➡️
 
 </div>
