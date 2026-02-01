@@ -28,6 +28,20 @@ Cada skill incluye:
 - **Docentes** que necesitan recursos didácticos alineados con el programa oficial
 - **Comunidad TecNM** que busca compartir y mejorar recursos educativos
 
+---
+
+## 🌐 Identidad Institucional y Ecosistema
+
+Este repositorio no es solo un conjunto de archivos; es parte integral del ecosistema digital de la carrera de **Ingeniería en Sistemas Computacionales** del **Instituto Tecnológico de Ciudad Madero (ITCM)**.
+
+### 🏫 El Portal Oficial de la Carrera (ISC-ITCM)
+Para una experiencia visual e institucional completa, visita el portal:
+**👉 [jjho05.github.io/ISC-ITCM/](https://jjho05.github.io/ISC-ITCM/)**
+
+> [!IMPORTANT]
+> **Reconocimiento y Autoría:**  
+> El portal **ISC-ITCM** fue diseñado y desarrollado por **Jesús Olvera** como una iniciativa para profesionalizar la identidad digital de nuestra carrera. Este sitio sirve como el núcleo visual que conecta todos los recursos de este repositorio con la vida académica del ITCM, brindando a la comunidad estudiantil una plataforma de nivel profesional alineada con el prestigio de nuestra institución.
+
 ### ¿Cómo funciona?
 
 Cada materia (skill) se crea siguiendo un proceso estandarizado:
